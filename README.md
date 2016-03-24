@@ -2,7 +2,9 @@
 
 This game was developed for the 2016 March Break [Kids Code](http://kidscode.co/) event put on by [SuprAcademy](http://supracademy.com/).
 
-To run it, simply open the index.html page in a browser (preferrably Chrome).
+You can download the latest version from the "Download ZIP" link at the top of this page, or by clicking [here](https://github.com/Drackir/kids-code-game/archive/master.zip).
+
+To run it, simply extract the zip and open the index.html page in a browser (preferrably Chrome).
 
 ## Todo
 
